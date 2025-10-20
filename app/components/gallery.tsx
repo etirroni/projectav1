@@ -8,12 +8,12 @@ export default function ActivityGallery() {
 
   // List your 6 gallery images here
   const images = [
-    "/gallery01.png",
-    "/gallery02.png",
-    "/gallery03.png",
-    "/gallery04.png",
-    "/gallery05.png",
-    "/gallery06.png",
+    "/images/gallery01.png",
+    "/images/gallery02.png",
+    "/images/gallery03.png",
+    "/images/gallery04.png",
+    "/images/gallery05.png",
+    "/images/gallery06.png",
   ];
 
   // Duplicate images once for seamless looping
