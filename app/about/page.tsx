@@ -12,7 +12,7 @@ export default function About() {
           {/* Floating Profile Image */}
           <div className="md:w-1/2 bg-black/60 rounded-full overflow-hidden p-2 relative animate-float">
             <Image
-              src="/images/profiilikuva.png"
+              src="/projectav1/images/profiilikuva.png"
               width={500}
               height={500}
               alt="Profile picture"
